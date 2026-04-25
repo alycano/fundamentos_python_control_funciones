@@ -1,0 +1,7 @@
+Documentacion de ejercicios - Estructuras iterativas
+
+En esta parte del proyecto me enfoque en trabajar con bucles para automatizar tareas repetitivas en Python. En el ejercicio basico utilice un bucle for junto con la funcion range para simular el registro de varios equipos de hardware. Esto me sirvio para entender como repetir una accion una cantidad exacta de veces de forma muy limpia.
+
+Para el ejercicio multiple trabaje con el bucle while. Lo enfoque en un sistema de validacion de claves donde el programa no deja avanzar al usuario hasta que ingrese el dato correcto (en este caso la clave es sena2026). Me parecio muy util porque a diferencia del for, aqui no se sabe cuantas veces va a intentar el usuario, asi que el bucle depende totalmente de que se cumpla la condicion de seguridad.
+
+Por ultimo, en el ejercicio avanzado combine las sentencias break y continue dentro de un escaneo de componentes. Use continue para saltarme un elemento que tenia un error y break para detener todo el proceso cuando se llego a un limite de tiempo. Tambien probe la clausula else de los bucles para confirmar cuando una revision termina sin interrupciones. Fue una buena practica para aprender a controlar mejor los ciclos de repeticion.
