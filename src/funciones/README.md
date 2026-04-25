@@ -1,0 +1,7 @@
+Documentacion de ejercicios - Funciones
+
+En esta ultima parte del proyecto trabaje con la creacion de funciones para organizar mejor el codigo. En el ejercicio basico aprendi a definir funciones con la palabra def y a usar parametros por defecto. Hice una funcion para registrar equipos donde, si no se especifica el estado, el sistema asume automaticamente que el equipo es nuevo. Esto ayuda mucho a no repetir informacion innecesaria.
+
+Para el ejercicio multiple me enfoque en la sentencia return. Cree una funcion que recibe una lista de precios de hardware y devuelve dos resultados al tiempo: el total de la inversion y el promedio de costo. Me parecio muy interesante ver como Python permite retornar varios valores en una sola linea y como puedo guardarlos en variables diferentes para usarlos despues.
+
+Finalmente, en el ejercicio avanzado explore el uso de argumentos variables como args y kwargs. Esto permite que una funcion reciba cualquier cantidad de datos sin tener que definirlos uno por uno. Tambien aproveche para incluir docstrings, que son esos comentarios largos al principio de la funcion que explican para que sirve cada cosa. Siento que con esto el codigo queda mucho mas profesional y facil de entender para otros desarrolladores.
